@@ -1,0 +1,23 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+color.expected position 88⫽92 color 06914C relative true errorcall notFound
+dialog ‴Color found‴
+
+procedure notFound
+    dialog ‴Color not found‴
+    stop silentmode true
+end
+
+
+
+	
+
+
+
+
+
+
+
+
+
