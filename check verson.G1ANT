@@ -1,0 +1,24 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+
+♥dllPath = ♥environment⟦windir⟧\system32\kernel32.dll
+checkversion path ♥dllPath
+dialog ♥result
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
