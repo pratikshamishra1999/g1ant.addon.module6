@@ -1,0 +1,13 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+file.exists C:\Tests\TestLogo.png timeout 1000 errorjump noFile
+file.copy C:\Tests\TestLogo.png destinationpath C:\Tests\TestLogo2.png overwrite true
+
+label noFile
+    dialog ‴File not found‴
+end
+
+
+
+
